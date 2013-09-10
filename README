@@ -1,0 +1,36 @@
+Developed by Andre H. Costa Silva
+
+================================
+Source codes 1-4 based on: http://infolab.stanford.edu/~ullman/mmds.html
+
+1) Create a text index
+
+================================
+
+2) Calculate TF.IDF (Term Frequency times In- verse Document Frequency)
+
+================================
+
+3) Calculate Jaccard Similarity
+
+S = [1,2,3,4,5]
+T = [3,4,5,6,7,8]
+
+jaccard_similarity(S,T) = 3/8 = 0.375
+
+
+a = [1,1,1,2]
+b = [1,1,2,2,3]
+
+
+bag_jaccard_similarity(S,T) = 3/9 = 0.333
+
+================================
+
+4) Distance measures: Jaccard Distance, Euclidean Distance, Manhattan Distance, Edit Distance and Hamming Distance
+
+================================
+
+5) Source code 5 (cosine_similarity) based on Rodrigo's source code implemented in javascript: https://github.com/rdgms/hello_cosine_similarity
+
+================================
